@@ -1,5 +1,8 @@
 # the_pantry
-"GitHub Checkpoint Assignment"# GitHub Checkpoint Assignment
+
+"GitHub Checkpoint Assignment"# 
+
+GitHub Checkpoint Assignment
 Introduces you to GitHub
 Learn how to:
 - Use an ssh key.
